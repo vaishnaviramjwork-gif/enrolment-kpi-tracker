@@ -68,6 +68,9 @@ The dashboard contains:
 ## Dashboard Preview
 ![Enrolment KPI Dashboard](dashboard_screenshot.png)
 
+## Dashboard Preview
+![Enrolment KPI Dashboard](dashboard_screenshott.png)
+
 ## Files in This Repository
 | File | Description |
 |---|---|
