@@ -65,6 +65,9 @@ The dashboard contains:
 - Q1 2024 total enrolments reached 144 against a combined target of 148
 - Revenue attainment averaged 91% across all regions
 
+## Dashboard Preview
+![Enrolment KPI Dashboard](dashboard_screenshot.png)
+
 ## Files in This Repository
 | File | Description |
 |---|---|
