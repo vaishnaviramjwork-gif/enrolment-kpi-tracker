@@ -5,7 +5,7 @@
 During my time at Smart Move Education Group, I worked with multi-regional 
 enrolment data to track KPIs and build reporting dashboards. This project 
 recreates that workflow end-to-end using SQL for data management and Excel 
-for visualisation — demonstrating how raw data can be turned into actionable 
+for visualisation demonstrating how raw data can be turned into actionable 
 business insights.
 
 ## What This Project Does
